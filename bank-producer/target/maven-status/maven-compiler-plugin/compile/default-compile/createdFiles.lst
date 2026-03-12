@@ -1,0 +1,5 @@
+com\Arli\producer\Referencias.class
+com\Arli\producer\LoteResponse.class
+com\Arli\producer\ProducerApp.class
+com\Arli\producer\Transaccion.class
+com\Arli\producer\Detalle.class
