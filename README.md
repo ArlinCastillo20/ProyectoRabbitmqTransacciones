@@ -41,3 +41,8 @@ API (GET) → Producer → RabbitMQ → Consumer → API (POST)
 Resultado
 
 El sistema envía correctamente las transacciones al endpoint y RabbitMQ confirma los mensajes mediante ACK.
+
+
+
+Link del video:
+https://drive.google.com/file/d/1C_iyU8bNnEqUQ8QB5rOPEhKpcq8rb9mD/view?usp=drive_link
